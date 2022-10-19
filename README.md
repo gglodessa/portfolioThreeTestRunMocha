@@ -24,6 +24,6 @@ npm install --save-dev mocha-simple-html-reporter
 
 For run test - npm test
 
-# Для получения HTMK Report
+# Для получения HTML Report
 
 --reporter mocha-simple-html-reporter --reporter-options output=report.html
